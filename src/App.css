@@ -13,12 +13,76 @@ body{
    display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(241, 241, 241);
+  padding: 2%;
 }
-#root {
-  width: 100%;
-  height: 80%;
-  border: 2px solid;
+
+
+
+.header{
+  width: 50%;
+  height: 30%;
+  display: flex;
+  align-items: center;
+
 }
-.shoes{
-  border: 5px solid rgb(175, 20, 20);
+.SneakersLogo{
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: large;
+  
+
+
+}
+.Collection{
+  width: 25%;
+  position: fixe;
+}
+.navBar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navBar .leftsection{
+  display: flex;
+
+}
+.navBar .leftsection div{
+  padding: 1rem;
+}
+.navBar .rightsection{
+  display: flex;
+}
+.navBar .rightsection div{
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+}
+.title{
+  background-color: bisque;
+  font-size: medium;
+
+
+}
+.sub-top{
+  background-color: black;
+  font-size: medium;
+
+}
+.text{
+background-color: darkgrey;
+font-size: small;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.paragraph{
+  display: flex;
+
+}
+.col{
+  display: flex;
+  flex-direction: row;
 }
