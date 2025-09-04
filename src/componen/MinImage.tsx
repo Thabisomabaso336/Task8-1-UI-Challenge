@@ -6,8 +6,7 @@ export default function MinImage() {
     src={"src/assets/image-product-1.jpg"}
     alt="sneaker main"
     style={{
-width:"400px",
-height:"400px",
+width:"50%",
 borderRadius:"12px",
 marginBottom:"23px",
 objectFit:"cover"

@@ -21,7 +21,7 @@ export default function NavBar() {
   <div>
       <img 
       src="/src/assets/images/image-avatar.png" alt="Avatar" 
-      style={{width:"40px", height:"35px", borderRadius:"50%"}}/>
+      style={{width:"40px", height:"39px", borderRadius:"50%"}}/>
   </div>
 </section>
     </div>

@@ -14,7 +14,7 @@ body{
   align-items: center;
   justify-content: center;
   background-color: rgb(241, 241, 241);
-  padding: 2%;
+  padding:2%;
 }
 
 
@@ -50,9 +50,11 @@ body{
 .navBar .leftsection{
   display: flex;
 
+
 }
 .navBar .leftsection div{
   padding: 1rem;
+  color: gray;
 }
 .navBar .rightsection{
   display: flex;
@@ -83,6 +85,13 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 .col{
-  display: flex;
   flex-direction: row;
+  display: flex;
+  width: 50%;
+}
+.thumbImage {
+  display: flex;
+}
+.col1{
+  display: flex;
 }
