@@ -6,8 +6,8 @@ export default function DiscountBadge() {
       <span style={{
         backgroundColor: 'hsla(26, 36%, 91%, 1.00)',
         color: 'orange',
-        padding: '5px 10px',
-        borderRadius: '5px',
+        padding: '1px 2px',
+        borderRadius: '1px',
         fontWeight: 'bold'
       }}>
         50%

@@ -5,12 +5,12 @@ export default function NavBar() {
     <div className='navBar'>
 <section className='leftsection'>
     <div>
-      <h1>Sneakers</h1></div>
-    <div>collections</div>
-    <div>Men</div>
-    <div>Women</div>
-    <div>About</div>
-    <div>contact</div>
+      <h1 className='SneakersLogo'>Sneakers</h1></div>
+    <div className='link'>collections</div>
+    <div className='link'>Men</div>
+    <div className='link'>Women</div>
+    <div className='link'>About</div>
+    <div className='link'>contact</div>
 </section>
 
 <section className='rightsection'>

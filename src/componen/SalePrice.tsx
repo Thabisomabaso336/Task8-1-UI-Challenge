@@ -6,7 +6,7 @@ export default function SalePrice() {
       <span style={{
         color: 'hsla(60, 3%, 8%, 1.00)',
         fontWeight: 'bold',
-        fontSize: '25px'
+        fontSize: '20px'
       }}>$125.00</span>
     </div>
   )
