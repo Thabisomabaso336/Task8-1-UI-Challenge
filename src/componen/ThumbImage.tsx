@@ -5,7 +5,7 @@ export default function ThumbImage() {
     <div className="thumbImage">
       <div>
         <img
-          style={{ height: "50%", width: "80%" }}
+          style={{ height: "44%", width: "82%" }}
           src={"src/assets/image-product-1-thumbnail.jpg"}
           alt="Thumbnail"
           
@@ -13,7 +13,7 @@ export default function ThumbImage() {
       </div>
       <div>
         <img
-          style={{ height: "50%", width: "80%" }}
+          style={{ height: "42%", width: "80%" }}
 
           src={"src/assets/images/image-product-2-thumbnail.jpg"}
           alt="Thumbnail"
@@ -21,14 +21,14 @@ export default function ThumbImage() {
       </div>
       <div>
         <img
-          style={{ height: "50%", width: "80%" }}
+          style={{ height: "42%", width: "80%" }}
           src={"src/assets/images/image-product-3-thumbnail.jpg"}
           alt="Thumbnail"
         />
       </div>
       <div>
         <img
-          style={{ height: "50%", width: "80%" }}
+          style={{ height: "44%", width: "82%" }}
           src={"src/assets/images/image-product-4.jpg"}
           alt="Thumbnail"
         />
