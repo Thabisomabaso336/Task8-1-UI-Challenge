@@ -90,3 +90,7 @@ React 19
 Vite 7
 
 TypeScript, ESLint, and related plugins
+
+
+👨‍💻 Author
+Thabiso-Thabisomabaso336
