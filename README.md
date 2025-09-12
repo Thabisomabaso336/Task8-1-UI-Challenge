@@ -14,10 +14,15 @@ It includes components like:
 
 ## Features
 React 19.1.1 - Latest React with improved performance and features
+
 TypeScript - Full type safety and enhanced developer experience
+
 Vite - Lightning-fast build tool and development server
+
 Modern Component Architecture - Clean, reusable UI components
+
 ESLint Integration - Consistent code quality and formatting
+
 Hot Module Replacement - Instant updates during development
 
 ```
