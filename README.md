@@ -19,7 +19,7 @@ Follow these steps to get the project running locally:
 
 ### 1️ Clone the repository
 ```bash
-git clone https://github.com/your-username/task-8-1-ui-challenge.git
+git clone https://github.com/Thabisomabaso336/task-8-1-ui-challenge.git
 cd task-8-1-ui-challenge
 2️⃣ Install dependencies
 npm install
