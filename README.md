@@ -62,16 +62,21 @@ Follow these steps to get the project running locally:
 ```bash
 git clone https://github.com/Thabisomabaso336/task-8-1-ui-challenge.git
 cd task-8-1-ui-challenge
+
 2️⃣ Install dependencies
 npm install
+
 3️⃣ Run development server
 npm run dev
 Open http://localhost:5173
- in your browser.
+in the browser.
+
 4️⃣ Build for production
 npm run build
+
 5️⃣ Preview production build
 npm run preview
+
 📦 Dependencies
 
 React 19
