@@ -12,7 +12,7 @@ It includes components like:
 - 🛒 **AddtocartButton** – add product to cart
 
 
-##✨ Features
+✨ Features
 - React 19.1.1 - Latest React with improved performance and features
 
 - TypeScript - Full type safety and enhanced developer experience
