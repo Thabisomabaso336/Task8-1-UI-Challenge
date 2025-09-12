@@ -63,6 +63,9 @@ task-8-1-ui-challenge/
 
 └── vite.config.ts
 
+
+```
+
 ##  Installation & Setup
 
 Follow these steps to get the project running locally:
