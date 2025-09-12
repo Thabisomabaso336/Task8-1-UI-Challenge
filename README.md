@@ -112,4 +112,5 @@ npm run preview
 
 Thabiso-Thabisomabaso336
 
-<img src="https://socialify.git.ci/Thabisomabaso336/Task8-1-UI-Challenge/image?language=1&name=1&owner=1&stargazers=1&theme=Light" alt="Task8-1-UI-Challenge" width="640" height="320" />
+<img src="https://socialify.git.ci/Thabisomabaso336/Task8-1-UI-Challenge/image?language=1&name=1&owner=1&stargazers=1&theme=Light" alt="Task8-1-UI-Challenge" width="640" height="320" />![desktop-design](https://github.com/user-attachments/assets/ed395f1d-e213-4a92-8f20-ef6135f8a43c)
+
