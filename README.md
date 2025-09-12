@@ -19,12 +19,9 @@ task-8-1-ui-challenge/
 ├── public/ # Static assets
 
 ├── src/
-
 │ ├── componen/ # Reusable UI components
 
-
 │ │ ├── NavBar.tsx
-
 │ │ ├── Paragraph.tsx
 │ │ ├── MinImage.tsx
 │ │ ├── ThumbImage.tsx
@@ -35,8 +32,11 @@ task-8-1-ui-challenge/
 │ │ ├── QuantityButton.tsx
 │ │ └── CompanyHeading.tsx
 │ ├── App.tsx # Main entry component
+
 │ └── App.css # Styles
+
 ├── index.html
+
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
