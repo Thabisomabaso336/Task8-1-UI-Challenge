@@ -9,9 +9,31 @@ It includes components like:
 - 📄 **Paragraph** – product description  
 - 💲 **SalePrice**, **NormalPrice**, **DiscountBadge** – pricing details  
 - ➕ **QuantityButton** – select product quantity  
-- 🛒 **AddtocartButton** – add product to cart  
+- 🛒 **AddtocartButton** – add product to cart
 
----
+
+ ## 📂 Project Structure
+
+task-8-1-ui-challenge/
+├── public/ # Static assets
+├── src/
+│ ├── componen/ # Reusable UI components
+│ │ ├── NavBar.tsx
+│ │ ├── Paragraph.tsx
+│ │ ├── MinImage.tsx
+│ │ ├── ThumbImage.tsx
+│ │ ├── DiscountBadge.tsx
+│ │ ├── AddtocartButton.tsx
+│ │ ├── NormalPrice.tsx
+│ │ ├── SalePrice.tsx
+│ │ ├── QuantityButton.tsx
+│ │ └── CompanyHeading.tsx
+│ ├── App.tsx # Main entry component
+│ └── App.css # Styles
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
 
 ##  Installation & Setup
 
