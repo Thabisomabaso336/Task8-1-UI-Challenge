@@ -15,10 +15,16 @@ It includes components like:
  ## 📂 Project Structure
 
 task-8-1-ui-challenge/
+
 ├── public/ # Static assets
+
 ├── src/
+
 │ ├── componen/ # Reusable UI components
+
+
 │ │ ├── NavBar.tsx
+
 │ │ ├── Paragraph.tsx
 │ │ ├── MinImage.tsx
 │ │ ├── ThumbImage.tsx
