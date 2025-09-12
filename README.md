@@ -12,7 +12,7 @@ It includes components like:
 - 🛒 **AddtocartButton** – add product to cart
 
 
-## Features
+##✨ Features
 - React 19.1.1 - Latest React with improved performance and features
 
 - TypeScript - Full type safety and enhanced developer experience
@@ -101,12 +101,13 @@ npm run preview
 
 📦 Dependencies
 
-React 19
+- React 19
 
-Vite 7
+- Vite 7
 
-TypeScript, ESLint, and related plugins
+- TypeScript, ESLint, and related plugins
 
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 Thabiso-Thabisomabaso336
